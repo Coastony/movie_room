@@ -13,5 +13,5 @@
 </p>
 
 ## 📁 Project access
-You can access the project files by clicking [here](https://github.com/Coastony/my_finances)
+You can access the project files by clicking [here](https://github.com/Coastony/movie_room)
 
