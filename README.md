@@ -4,7 +4,7 @@
  
  ## ✔️ Techniques and technologies used
 
-- ``HTML5`` ``CSS3`` ``JavaScript`` ``ReactJS`` ``Movie API`` ``Google Fonts``
+- ``HTML5`` ``CSS3`` ``JavaScript`` ``ReactJS`` ``OMDb API`` ``Google Fonts``
 
 <br>
 
